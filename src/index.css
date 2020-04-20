@@ -5,6 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: small;
+  color:#f6f6f6;
+  text-align: center;
+  direction: rtl;
+}
+a{
+  color:#5A7670;
+}
+a:hover{
+  color:#FA292A;
 }
 
 code {
